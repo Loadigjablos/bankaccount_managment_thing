@@ -1,0 +1,11 @@
+{
+  "name": "james",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mariadb": "^3.1.1",
+    "typescript": "^5.0.4"
+  }
+}
